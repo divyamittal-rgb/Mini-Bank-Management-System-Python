@@ -1,6 +1,6 @@
 🏦 Mini Bank Management System (Python - OOP)
 📌 Project Overview
-   This is a console-based banking system developed using Python and Object-Oriented Programming principles. The system allows             dministrators to manage customer accounts efficiently with persistent data storage.
+This is a console-based banking system developed using Python and Object-Oriented Programming principles. The system allows             administrators to manage customer accounts efficiently with persistent data storage.
 
 🚀 Features
  ~ Create new bank account
